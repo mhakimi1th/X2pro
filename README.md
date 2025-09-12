@@ -8,11 +8,7 @@
 ![Platform](https://img.shields.io/badge/platform-Cloudflare_Worker-orange)
 
 
----
 
-</div>
-
----
 
 ## ✨ ویژگی‌های کلیدی
 
@@ -111,3 +107,8 @@ cd X2pro
   
   <h3>🔧 ابزارها و مدیریت GitHub</h3>
   <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/git.JPG?raw=true" alt="ابزارها" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+---
+
+</div>
+
+---
