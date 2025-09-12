@@ -64,7 +64,6 @@
 
 | نام منبع                | لینک Raw                                                               |
 |-------------------------|------------------------------------------------------------------------|
-```bash
 | 🔹 کانفیگ‌های VMess     | `https://raw.githubusercontent.com/mhakimi1th/X2pro/main/vmess.txt`     |
 | 🔷 کانفیگ‌های VLESS     | `https://raw.githubusercontent.com/mhakimi1th/X2pro/main/vless.txt`     |
 | 🟡 کانفیگ‌های Trojan    | `https://raw.githubusercontent.com/mhakimi1th/X2pro/main/trojan.txt`   |
