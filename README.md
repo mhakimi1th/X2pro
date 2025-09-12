@@ -7,27 +7,25 @@
 ![Version](https://img.shields.io/badge/version-2.0-green)
 ![Platform](https://img.shields.io/badge/platform-Cloudflare_Worker-orange)
 
+
+## 🌐 منابع پیشنهادی کانفیگ
+شما می‌توانید از لینک‌های زیر به عنوان منبع خودکار برای استخراج کانفیگ استفاده کنید. این لینک‌ها توسط خود سیستم X2PRO مدیریت می‌شوند و به‌روزرسانی دوره‌ای دارند.
+
+برای اضافه کردن، وارد بخش **ابزارها > مدیریت لینک GitHub** شوید و لینک‌های زیر را با نام مناسب اضافه کنید:
+
+| نام منبع                | لینک Raw                                                               |
+|-------------------------|------------------------------------------------------------------------|
+| 🔹 کانفیگ‌های VMess     | `https://raw.githubusercontent.com/mhakimi1th/X2pro/main/vmess.txt`     |
+| 🔷 کانفیگ‌های VLESS     | `https://raw.githubusercontent.com/mhakimi1th/X2pro/main/vless.txt`     |
+| 🟡 کانفیگ‌های Trojan    | `https://raw.githubusercontent.com/mhakimi1th/X2pro/main/trojan.txt`   |
+| ⚫ کانفیگ‌های Shadowsocks| `https://raw.githubusercontent.com/mhakimi1th/X2pro/main/ss.txt`       |
+| ⚡ کانفیگ‌های Hysteria2 | `https://raw.githubusercontent.com/mhakimi1th/X2pro/main/hysteria2.txt` |
+
+> ✅ پس از اضافه کردن، می‌توانید روی دکمه **"استخراج"** کلیک کنید یا صبر کنید تا سیستم به‌صورت خودکار هر ۱۲ ساعت یکبار آن‌ها را به‌روز کند.
+
+
 ---
 
-## 📸 نمایی از رابط کاربری
-
-در ادامه تصاویری از رابط کاربری X2PRO آورده شده است:
-
-<div align="center">
-  <h3>🔐 صفحه ورود</h3>
-  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/login.JPG?raw=true" alt="صفحه ورود" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-  
-  <h3>📊 داشبورد اصلی</h3>
-  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/dash.JPG?raw=true" alt="داشبورد" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-  
-  <h3>👥 مدیریت کاربران</h3>
-  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/user.JPG?raw=true" alt="مدیریت کاربران" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-  
-  <h3>⚙️ مدیریت کانفیگ‌ها</h3>
-  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/conf.JPG?raw=true" alt="کانفیگ‌ها" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-  
-  <h3>🔧 ابزارها و مدیریت GitHub</h3>
-  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/git.JPG?raw=true" alt="ابزارها" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
 
 ---
@@ -93,3 +91,23 @@
 git clone https://github.com/mhakimi1th/X2pro.git
 cd X2pro
 
+
+## 📸 نمایی از رابط کاربری
+
+در ادامه تصاویری از رابط کاربری X2PRO آورده شده است:
+
+<div align="center">
+  <h3>🔐 صفحه ورود</h3>
+  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/login.JPG?raw=true" alt="صفحه ورود" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  
+  <h3>📊 داشبورد اصلی</h3>
+  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/dash.JPG?raw=true" alt="داشبورد" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  
+  <h3>👥 مدیریت کاربران</h3>
+  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/user.JPG?raw=true" alt="مدیریت کاربران" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  
+  <h3>⚙️ مدیریت کانفیگ‌ها</h3>
+  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/conf.JPG?raw=true" alt="کانفیگ‌ها" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  
+  <h3>🔧 ابزارها و مدیریت GitHub</h3>
+  <img src="https://github.com/mhakimi1th/X2pro/blob/main/img/git.JPG?raw=true" alt="ابزارها" width="800" style="border-radius: 12px; margin-bottom: 24px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
