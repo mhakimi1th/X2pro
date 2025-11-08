@@ -128,4 +128,6 @@ vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@69.84.182.90:8880?encryption=none&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@203.23.128.92:990#t.me%2FentryNET%2Fconfig%3D1848102630931148
 vless://0e80f3bb-209b-44ad-a780-9d7ee70b3d15@69.84.182.90:8880?encryption=none&security=none&type=httpupgrade&host=sjdsbaisbs.hide-abr.com.tr.&path=%2F#t.me%2FentryNET%2Fconfig%3D1848165537085317
 vless://6446b629-b33f-4886-9678-d24baa6def7e@91.134.30.177:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir#t.me%2Fv2Line%20%7C%20Free%20%7C%202754%20%7C%20France
+vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?encryption=none&security=none&type=xhttp&path=%2F&mode=auto#%F0%9F%90%8C%F0%9F%90%8C%F0%9F%90%8C6
+
 
